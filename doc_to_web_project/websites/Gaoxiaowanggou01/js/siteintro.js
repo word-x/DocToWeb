@@ -1,0 +1,1 @@
+document.write('<p><b>作者</b>&nbsp;:&nbsp;zuli</p><p><b>摘要</b>:<br>Let me tell you how to buy what you really need online.</p><p><b>关键词</b>&nbsp;:&nbsp;Online shopping, buy something, buy cheaper</p><p><b>更新时间</b>&nbsp;:&nbsp;2020/5/5 16:53:00</p><script src="../../adcodes/SiteIntroBottom.js"></script>')
