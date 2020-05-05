@@ -16,7 +16,7 @@ Demo site:http://www.word-x.com/en/demdoc_to_web_demo/websites/SimpleDocument/to
 - The website is responsive and looks good on different devices such as PC, mobile and tablet.
 - It has several wonderful themes for you to choose.
 # How to use?
-1. Download and extract the source.zip file, which will be used to create website.
+1. Download the word file, which will be used to create website.
 For windows system users, we recommend you to place source folder to directory excepting C disk.
 2. Create a folder on your computer, which will be used as project folder to save website file.
 3. Download our Word template, rename it and fill in all document properties in the first page according to the template.
