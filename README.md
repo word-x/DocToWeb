@@ -44,6 +44,8 @@ C:\Users\Ed0522\Documents\GitHub\DocToWeb\doc_to_web_project\websites (for examp
 其实很简单，把所有文件下载下来，然后打开Word文档（DocToWebTemplate.docm）把第一页的表格填一下，然后开始写文档，写完文档后最后点击Run就可以了。
 最后生成的网站文件夹在DocToWeb\doc_to_web_project\websites下面。
 #Contact
-- email：ed0522@sina.cn
-- wechat： wyg0522
-- blog：http://zuli.uk/
+- E-mail：ed0522@sina.cn
+- Wechat： wyg0522
+- Blog：http://zuli.uk/
+If you have any problems or just want to make friends with me, please feel free to write me an email or contact via wechat. 
+I am looking forward to hearing from you.
