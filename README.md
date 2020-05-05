@@ -8,7 +8,7 @@ Because for most people, what they have on their computer is just Office Word an
 
 With this in my mind, I developed DocToWeb and it did save me a lot of time and energy.
 
-![Demo](https://github.com/ed0522/DocToWeb/blob/master/pcdemo.gif''Doc2Web'')
+![Demo](https://github.com/ed0522/DocToWeb/blob/master/pcdemo.gif)
 
 Demo site:http://www.word-x.com/en/demdoc_to_web_demo/websites/SimpleDocument/toc.html
 # Features
