@@ -41,6 +41,7 @@ C:\Users\Ed0522\Documents\GitHub\DocToWeb\doc_to_web_project\websites (for examp
 - Please do not change the theme or styles of word document because it may cause some unknown errors which make you unhappy. After all, there is no perfect program. It has Advantages and also Disadvatages.
 - I recommend you don't change anything about the template.
 - Do not use Japanese or Chinese character as folder name or parameter.
+- If you don't want to insert ad code in your website, you can just delete adcodes folder.
 ## 国内的朋友，我就不给你们写中文版的说明了。
 写这个VBA插件是为了写一些教程之类的结构性文档，大家可以用来作为CMS用也可以。
 其实很简单，把所有文件下载下来，然后打开Word文档（DocToWebTemplate.docm）把第一页的表格填一下，然后开始写文档，写完文档后最后点击Run就可以了。
