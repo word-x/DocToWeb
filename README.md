@@ -39,13 +39,18 @@ C:\Users\Ed0522\Documents\GitHub\DocToWeb\doc_to_web_project\websites (for examp
 # Note
 - Please do not deelete the Document Properties table on the first page.
 - Please do not change the theme or styles of word document because it may cause some unknown errors which make you unhappy. After all, there is no perfect program. It has Advantages and also Disadvatages.
--I recommend you don't change anything about the template.
+- I recommend you don't change anything about the template.
+- Do not use Japanese or Chinese character as folder name or parameter.
 ## 国内的朋友，我就不给你们写中文版的说明了。
 其实很简单，把所有文件下载下来，然后打开Word文档（DocToWebTemplate.docm）把第一页的表格填一下，然后开始写文档，写完文档后最后点击Run就可以了。
 最后生成的网站文件夹在DocToWeb\doc_to_web_project\websites下面。
+注意：不要用中文命名文件夹！
 #Contact
 - E-mail：ed0522@sina.cn
 - Wechat： wyg0522
 - Blog：http://zuli.uk/
+- twitter: https://twitter.com/EddyWang0522
+Sometimes I can't access to twitter for some reasons.
+# Contact
 If you have any problems or just want to make friends with me, please feel free to write me an email or contact via wechat. 
 I am looking forward to hearing from you.
