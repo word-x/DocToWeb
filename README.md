@@ -1,6 +1,6 @@
 
 # Introduction
-DocToWeb is an Office Word Add-in, which can convert a Word document to a responsive (PC/Mobile/Tablet) website with just one click.
+DocToWeb is an Office Word Add-in, which can convert a Word document to a responsive (PC/Mobile/Tablet) website with just one click. You can use it to write program documentation or some structural documents such as tutorials or product instructions.
 
 Once I have tested many CMS, such as Wordpress, Joomla, Drupal, etc. Yes, they are all excellent systems developed by smart team, but I still think they are too heavy and complicated.
 
@@ -24,7 +24,8 @@ Demo site:http://www.word-x.com/en/demdoc_to_web_demo/websites/SimpleDocument/to
 4. Fill in all document properties in the first page according to the template.
 If some property is empty, the program will stop running and prompt unknown error. Please make sure all document properties are filled.
 3. Start writing in the Word template.
-4. Click "Run" on the first page to generate your clean and simple website with table of contents attached.
+4. Click "Run" on the first page to generate your clean and simple website with table of contents attached. Your website files will be shown in
+C:\Users\Ed0522\Documents\GitHub\DocToWeb\doc_to_web_project\websites (for example)
 
 # Supported Word features
 - DocToWeb only support document with Heading1 and Heading2 title. The reason we don’t support Heading 3 title is because Heading 3 title makes the document too complicated and needs more time to revise. We just want keep everything stupid and simple (KISS). As an alternative, you can use Heading 2(1), Heading 2(2) instead of using Heading 3 title.
@@ -38,3 +39,11 @@ If some property is empty, the program will stop running and prompt unknown erro
 # Note
 - Please do not deelete the Document Properties table on the first page.
 - Please do not change the theme or styles of word document because it may cause some unknown errors which make you unhappy. After all, there is no perfect program. It has Advantages and also Disadvatages.
+-I recommend you don't change anything about the template.
+## 国内的朋友，我就不给你们写中文版的说明了。
+其实很简单，把所有文件下载下来，然后打开Word文档（DocToWebTemplate.docm）把第一页的表格填一下，然后开始写文档，写完文档后最后点击Run就可以了。
+最后生成的网站文件夹在DocToWeb\doc_to_web_project\websites下面。
+#Contact
+- email：ed0522@sina.cn
+- wechat： wyg0522
+- blog：http://zuli.uk/
