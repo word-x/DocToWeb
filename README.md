@@ -48,9 +48,9 @@ C:\Users\Ed0522\Documents\GitHub\DocToWeb\doc_to_web_project\websites (for examp
 最后生成的网站文件夹在DocToWeb\doc_to_web_project\websites下面。
 注意：不要用中文命名文件夹！
 # Contact
-- E-mail：ed0522@sina.cn
-- Wechat： wyg0522
-- Blog：http://zuli.uk/
+- E-mail：ed0522@163.com
+- Wechat： eddy5600
+- Blog：http://zuli.life/
 - Twitter: https://twitter.com/EddyWang0522, Sometimes I can't access to twitter for some reasons.
 
 If you have any problems or just want to make friends with me, please feel free to write me an email or contact via wechat. 
